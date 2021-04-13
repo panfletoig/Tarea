@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=New+Tegomin:regular);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300italic,regular,italic,500,500italic,700,700italic);
+
+#nt
+{
+    font-family: New Tegomin;
+}
+
+#titulo
+{
+    font-family: Ubuntu;
+}
