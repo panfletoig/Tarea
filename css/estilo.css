@@ -23,8 +23,6 @@ body
 #img
 {
     float: center;
-    width: 100%;
-    height: 100%;
     max-width: 400px;
     max-height: 200px;
     border-radius: 20px;
@@ -38,8 +36,6 @@ body
 }
 #edit
 {
-    width: 100%;
-    height: 100%;
     max-width: 280px;
     max-height: 145px;
 }
@@ -55,8 +51,6 @@ body
 }
 #antes
 {
-    width: 100%;
-    height: 100%;
     max-width: 235px;
     max-height: 163px;
 }
